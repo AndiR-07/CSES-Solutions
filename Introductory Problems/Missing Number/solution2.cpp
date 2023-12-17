@@ -1,4 +1,5 @@
 // solved using Gauss sum formula
+
 #include <iostream>
 
 using namespace std;
